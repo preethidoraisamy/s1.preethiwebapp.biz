@@ -1,6 +1,6 @@
-body {margin: 0 0 0 0; padding: 0 0 0 0;font-family: Courier;background-color: #ffffff}
+body {margin: 0 0 0 0; padding: 0 0 0 0;font-family: Courier;background-color: #ffffff;}
 
-#MainDiv { position: relative; top: 30 px; width: 800px; height: 685px; margin-left: auto; margin-right: auto; background-color: #504A4B; border-radius: 50px; border: 2px solid #504A4B}
+#MainDiv { position: relative; margin-top: 30px; width: 800px; height: 685px; margin-left: auto; margin-right: auto; background-color: #504A4B; border-radius: 50px; border: 2px solid #504A4B;}
 
 div.introPanel{position: relative; height: 200px; width: 600px; background-color: rgb(206,206,206); border-radius: 50px; margin-left: 25px}
 div.introPanel p { padding-left: 45px; padding-top: 40px; background-color: white}
@@ -9,7 +9,7 @@ div.introPanel h4 { color: black; padding-left: 40px; padding-top: 5px; text-ali
 
 div.aboutPanel{position: relative; height: 200px; width: 600px; background-color: rgb(206,206,206); border-radius: 50px; margin-left: 22%;}
 div.aboutPanel p { padding-left: 30px; padding-top: 5px; padding-right: 30px; font-family: Verdana}
-div.aboutPanel h3 { color: black; padding-left: 40px;  text-align: center; padding-right: 5px; font-family: Verdana; padding-top: 20px}
+div.aboutPanel h3 { color: black; padding-left: 40px; text-align: center; padding-right: 5px; font-family: Verdana; padding-top: 20px}
 
 
 div.softwarePanel{position: relative; height: 200px; width: 600px; background-color: rgb(206,206,206); border-radius: 50px;margin-left: 25px}

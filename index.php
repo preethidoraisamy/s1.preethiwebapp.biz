@@ -4,12 +4,13 @@
 	<meta charset='utf-8'>
 	<meta name="description" content="Dynamic programming Project 1">
 	<link href="styles/MainStyle.css" rel="stylesheet" type="text/css">
+	<title>Project 1</title>
 </head>
 
 <body>
 <div id="MainDiv">
 	<div class="introPanel">
-		<h3>Preethi Doraisamy</h3>d t
+		<h3>Preethi Doraisamy</h3>
 		<h4>CSCI E-15 Dynamic Web Applications</h4>
 		<h4>Project 1</h4>
 		
